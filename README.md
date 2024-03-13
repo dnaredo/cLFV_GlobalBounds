@@ -1,5 +1,5 @@
 # cLFV_GlobalBounds
-This repository contains the global bounds and inverse correlation matrices needed to build the pseudo-$\chi^2$ that encodes the results of [REF] in the SMEFT scenario.
+This repository contains the global bounds and inverse correlation matrices needed to build the pseudo- $\chi^2$ that encodes the results of [REF] in the SMEFT scenario.
 
 Global bounds and correlations are available for the following scenarios:
 - $\tau-\ell$ operators involving all light quarks and with only first generation quarks
