@@ -1,5 +1,5 @@
 # cLFV_GlobalBounds
-This repository contains the global bounds and inverse correlation matrices needed to build the proxy- $\chi^2$ that encodes the results of [REF] in the SMEFT scenario. The bounds and correlations are given at the 95% C.L. and should only be used to extract the corresponding 95% C.L. bounds for specific UV-complete scenario. This is due to the fact that the extreme non-gaussianity of our test statistics makes it so that constraints change dramatically between different C.L.
+This repository contains the global bounds and inverse correlation matrices needed to build the proxy- $\chi^2$ that encodes the results of [REF] in the SMEFT scenario. The bounds and correlations are given at the 95% C.L. and should only be used to extract the corresponding 95% C.L. bounds for a specific UV-complete scenario. This is due to the fact that the extreme non-gaussianity of our test statistics makes it so that constraints change dramatically between different C.L.
 
 Global bounds and correlations are available for the following scenarios:
 - $\tau-\ell$ operators involving all light quarks and with only first generation quarks
